@@ -1,0 +1,12 @@
+name: conceptual-map-km-gbf
+title: conceptual-map-km-gbf
+username: maisap
+account: maisap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14432662
+bundleId: 10057558
+url: https://maisap.shinyapps.io/conceptual-map-km-gbf/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
