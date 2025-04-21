@@ -82,7 +82,7 @@ server <- function(input, output, session) {
     
     # assign color and shape to nodes
     vis.nodes$color <- str_replace_all(vis.nodes$type,c("category"= "#56ae6c", "goal"= "#b54f90","target"= "#7066bc", 
-                                                        "headline"="#ba6437", "binary"="#ba6437", "component"="#af953c", "complementary"="#af953c"))
+                                                        "headline"="#CA943C", "binary"="#CA943C", "component"="#F3DF95", "complementary"="#F3DF95"))
     vis.nodes$shape <- str_replace_all(vis.nodes$type,c("category"= "square", "goal"= "diamond", "target"= "diamond",
                                                         "headline"="dot", "binary"="dot", "component"="dot", "complementary"="dot"))
     
@@ -101,7 +101,7 @@ server <- function(input, output, session) {
       visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE) |> 
       visLegend(useGroups = FALSE, addNodes = data.frame(label = c("Category","Goal","Target","Headline/Binary","Component/Complementary"), 
                                                          shape = c("square","diamond","diamond","dot","dot"),
-                                                         color=c("#56ae6c","#b54f90","#7066bc","#ba6437","#af953c")),
+                                                         color=c("#56ae6c","#b54f90","#7066bc","#CA943C","#F3DF95")),
                 addEdges = data.frame(color=unique(vis.links$color),
                                       label=unique(vis.links$source),
                                       font.align = "bottom"))
