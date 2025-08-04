@@ -71,7 +71,7 @@ server <- function(input, output, session) {
     vis.links$color <- factor(vis.links$source,labels=c("#d4cf9a",
                                                         "#9cc0ed",
                                                         "#ebaea7",
-                                                        "#70d3e3",
+                                                        #"#70d3e3",
                                                         "#d8b3e1",
                                                         "#9fdbbb"))
     # enter linebreak after 50 characters
