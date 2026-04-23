@@ -6,7 +6,7 @@ library(stringr)
 library(visNetwork)
 library(DT)
 
-# Load data from Google Sheets
+# Load data from Sheets
 load_data <- function() {
   edges <- read.csv("./input_matrix-edges.csv")
   nodes <- read.csv("./input_matrix-nodes.csv")
@@ -67,15 +67,23 @@ server <- function(input, output, session) {
     # create links table from data, filtered if required
     vis.links <- edges |> filter(from %in% vis.nodes$id &
                                    to %in% vis.nodes$id)
-    # assign color to edge category
-    vis.links$color <- factor(vis.links$source,labels=c("#d4cf9a",
-                                                        "#9cc0ed",
-                                                        "#ebaea7",
-                                                        #"#70d3e3",
-                                                        "#d8b3e1",
-                                                        "#9fdbbb"))
+    # assign colors to edge categories (source) dynamically
+    edge_sources <- unique(vis.links$source)
+    base_palette <- c("#d4cf9a",
+                      "#9cc0ed",
+                      "#9fdbbb",
+                      "#70d3e3",
+                      "#d8b3e1",
+                      "#ebaea7")
+    palette <- if (length(edge_sources) <= length(base_palette)) {
+      base_palette[seq_along(edge_sources)]
+    } else {
+      grDevices::hcl.colors(length(edge_sources), "Set 3")
+    }
+    edge_color_map <- stats::setNames(palette, edge_sources)
+    vis.links$color <- unname(edge_color_map[vis.links$source])
     # enter linebreak after 50 characters
-    vis.links$source <- str_wrap(vis.links$source,width=50)
+    vis.links$source <- str_wrap(vis.links$source, width = 50)
     
     vis.nodes$shadow <- TRUE # Nodes will drop shadow
     vis.nodes$borderWidth <- 2 # Node border width
@@ -102,8 +110,8 @@ server <- function(input, output, session) {
       visLegend(useGroups = FALSE, addNodes = data.frame(label = c("Category","Goal","Target","Headline/Binary","Component/Complementary"), 
                                                          shape = c("square","diamond","diamond","dot","dot"),
                                                          color=c("#56ae6c","#b54f90","#7066bc","#CA943C","#F3DF95")),
-                addEdges = data.frame(color=unique(vis.links$color),
-                                      label=unique(vis.links$source),
+                addEdges = data.frame(color = unname(edge_color_map),
+                                      label = str_wrap(names(edge_color_map), width = 50),
                                       font.align = "bottom"))
   })
   
