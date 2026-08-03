@@ -108,12 +108,12 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 4,Red List Index (wild relatives of domesticated animals) ,Monitoring framework assignment (Goals and Targets to Indicators)
 4,Number of island invasive alien species eradications,Monitoring framework assignment (Goals and Targets to Indicators)
 5,5.1 Proportion of fish stocks within biologically sustainable levels (Sustainable Development Goal indicator 14.4.1),Monitoring framework assignment (Goals and Targets to Indicators)
-5,Red List Index (impacts of utilization) for utilized species,Monitoring framework assignment (Goals and Targets to Indicators)
+5,Red List Index (for utilized species),Monitoring framework assignment (Goals and Targets to Indicators)
 5,Living Planet Index for utilized species,Monitoring framework assignment (Goals and Targets to Indicators)
 5,"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Sustainable Development Goal indicator 14.6.1) (1)",Monitoring framework assignment (Goals and Targets to Indicators)
 5,Inland fisheries threat indicator,Monitoring framework assignment (Goals and Targets to Indicators)
 5,Red List Index (for internationally traded species),Monitoring framework assignment (Goals and Targets to Indicators)
-5,Red List Index (impacts of fisheries) [disaggregation of indicator A.3],Monitoring framework assignment (Goals and Targets to Indicators)
+5,Red List Index (impacts of fisheries),Monitoring framework assignment (Goals and Targets to Indicators)
 5,Marine Stewardship Council Fish Certified Catch,Monitoring framework assignment (Goals and Targets to Indicators)
 5,Total catch of cetaceans under the International Convention for the Regulation of Whaling,Monitoring framework assignment (Goals and Targets to Indicators)
 5,By-catch of vulnerable and non-target species,Monitoring framework assignment (Goals and Targets to Indicators)
@@ -155,7 +155,7 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 9,Number of (a) plant and (b) animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1),Monitoring framework assignment (Goals and Targets to Indicators)
 9,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size (Sustainable Development Goal indicator 2.3.1),Monitoring framework assignment (Goals and Targets to Indicators)
 9,Red List Index (impacts of fisheries),Monitoring framework assignment (Goals and Targets to Indicators)
-9,Red List Index (impact of utilization),Monitoring framework assignment (Goals and Targets to Indicators)
+9,Red List Index (for utilized species),Monitoring framework assignment (Goals and Targets to Indicators)
 10,10.1 Proportion of agricultural area under productive and sustainable agriculture (Sustainable Development Goal indicator 2.4.1),Monitoring framework assignment (Goals and Targets to Indicators)
 10,10.2 Progress towards sustainable forest management (Sustainable Development Goal indicator 15.2.1),Monitoring framework assignment (Goals and Targets to Indicators)
 10,"Average income of small-scale food producers, by sex and indigenous status (SDG indicator 2.3.2)",Monitoring framework assignment (Goals and Targets to Indicators)
@@ -371,3 +371,67 @@ D,Response,Workshop
 23,Response,Workshop
 5.b Number of countries with legal instruments or other policy frameworks for regulating trade in wild species,Response,Workshop
 "13.b Number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources",Response,Workshop
+Ecosystem Intactness Index,State,Pending validation
+Ecosystem Integrity Index,State,Pending validation
+Species Habitat Index,State,Pending validation
+Biodiversity Habitat Index,State,Pending validation
+Biodiversity Intactness Index,State,Pending validation
+Protected Connected Index,State,Pending validation
+Protected Connected Index,Response,Pending validation
+Protected Area Representativeness and Connectedness Indices,State,Pending validation
+Protected Area Representativeness and Connectedness Indices,Response,Pending validation
+Evolutionarily Distinct and Globally Endangered Index,State,Pending validation
+Living Planet Index,State,Pending validation
+Wild Bird Index,State,Pending validation
+Red List Index (for utilized species),State,Pending validation
+Red List Index (for utilized species),Benefits,Pending validation
+Living Planet Index for utilized species,State,Pending validation
+Living Planet Index for utilized species,Benefits,Pending validation
+Total value of ecosystems services in monetary units,Benefits,Pending validation
+Proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1),State,Pending validation
+Protected Area Connectedness Index,State,Pending validation
+Protected Area Connectedness Index,Response,Pending validation
+Species Protection Index (1),State,Pending validation
+Species Protection Index (1),Response,Pending validation
+Number of plant and animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities,State,Pending validation
+Number of plant and animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities,Benefits,Pending validation
+Green status of species,State,Pending validation
+Green status of species,Response,Pending validation
+Human-wildlife conflict indicator,Pressure,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2),State,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2),Response,Pending validation
+"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Sustainable Development Goal indicator 14.6.1) (1)",Response,Pending validation
+Cropland nutrient budget,State,Pending validation
+Cropland nutrient budget,Benefits,Pending validation
+Proportion of domestic and industrial wastewater flow safely treated (Sustainable Development Goal indicator 6.3.1),Response,Pending validation
+Proportion of domestic and industrial wastewater flow safely treated (Sustainable Development Goal indicator 6.3.1),Pressure,Pending validation
+Plastic debris density (Sustainable Development Goal indicator 14.1.1 (b)),Pressure,Pending validation
+Red List Index (impact of pollution),Pressure,Pending validation
+Red List Index (impact of pollution),State,Pending validation
+"Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015- 2030 (Sustainable Development Goal indicator 1.5.3), which include biodiversity",Response,Pending validation
+Bioclimatic Ecosystem Resilience Index (1),State,Pending validation
+Red List Index (species used for food and medicine),Benefits,Pending validation
+Red List Index (species used for food and medicine),State,Pending validation
+"Average income of small-scale food producers, by sex and indigenous status (SDG indicator 2.3.2)",Benefits,Pending validation
+Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities,Pressure,Pending validation
+Proportion of bodies of water with good ambient water quality,Response,Pending validation
+Proportion of bodies of water with good ambient water quality,State,Pending validation
+Level of water stress,Pressure,Pending validation
+Singapore Index on Cities’ Biodiversity,State,Pending validation
+Singapore Index on Cities’ Biodiversity,Benefits,Pending validation
+"Integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental- Economic Accounting (Sustainable Goal indicator 15.9.1 (b))",Response,Pending validation
+Number of companies publishing sustainability reports (Sustainable Development Goal indicator 12.6.1),Response,Pending validation
+Food Waste Index (Sustainable Development Goal indicator 12.3.1(b)),Benefits,Pending validation
+Food Waste Index (Sustainable Development Goal indicator 12.3.1(b)),Response,Pending validation
+"Material footprint, material footprint per capita, and material footprint per GDP (Sustainable Development Goal indicator 8.4.1) per capita",Pressure,Pending validation
+Global environmental impacts of consumption,Pressure,Pending validation
+Ecological footprint (1),Pressure,Pending validation
+"Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies (Sustainable Development Goal indicator 17.7",Response,Pending validation
+Species Information Index,State,Pending validation
+Participation of indigenous peoples and local communities in decision-making related to the implementation of the Convention at all levels,Response,Pending validation
+Index of Linguistic Diversity,Response,Pending validation
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure (Sustainable Development Goal indicator 1.4.2)",Benefits,Pending validation
+"Number of verified cases of killings and other attacks against environmental human rights defenders in the previous 12 months (Sustainable
+Development Goal indicator16.10.1)",Response,Pending validation
+Proportion of seats held by women in: (a) national parliaments; and (b) local governments (Sustainable Development Goal indicator 5.5.1),Response,Pending validation
+Indicator on national implementation of the Gender Plan of Action (2023–2030),Response,Pending validation
