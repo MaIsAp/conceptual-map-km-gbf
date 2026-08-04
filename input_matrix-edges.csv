@@ -24,7 +24,7 @@ A,Wetland Extent Trends Index,Monitoring framework assignment (Goals and Targets
 A,Forest Fragmentation Index,Monitoring framework assignment (Goals and Targets to Indicators)
 A,Forest Landscape Integrity,Monitoring framework assignment (Goals and Targets to Indicators)
 A,Global Vegetation Health Products,Monitoring framework assignment (Goals and Targets to Indicators)
-A,Bioclimatic Ecosystem Resilience Index (2),Monitoring framework assignment (Goals and Targets to Indicators)
+A,Bioclimatic Ecosystem Resilience Index (1),Monitoring framework assignment (Goals and Targets to Indicators)
 A,Relative magnitude of fragmentation,Monitoring framework assignment (Goals and Targets to Indicators)
 A,Ocean Health Index,Monitoring framework assignment (Goals and Targets to Indicators)
 A,Extent of physical damage to predominant seafloor habitats,Monitoring framework assignment (Goals and Targets to Indicators)
@@ -33,7 +33,7 @@ A,Mean species abundance,Monitoring framework assignment (Goals and Targets to I
 A,Species Protection Index (1),Monitoring framework assignment (Goals and Targets to Indicators)
 A,Changes in plankton biomass and abundance,Monitoring framework assignment (Goals and Targets to Indicators)
 A,Comprehensiveness of conservation of socioeconomically and culturally valuable species,Monitoring framework assignment (Goals and Targets to Indicators)
-A,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1),Monitoring framework assignment (Goals and Targets to Indicators)
+A,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (1),Monitoring framework assignment (Goals and Targets to Indicators)
 A,"Proportion of local breeds classified as being at risk, not- at-risk or at unknown level of risk of extinction (Sustainable Development Goal indicator 2.5.2)",Monitoring framework assignment (Goals and Targets to Indicators)
 A,Red List Index (wild relatives of domesticated animals),Monitoring framework assignment (Goals and Targets to Indicators)
 A,Species Status Information Index,Monitoring framework assignment (Goals and Targets to Indicators)
@@ -41,12 +41,12 @@ A,Expected loss of phylogenetic diversity,Monitoring framework assignment (Goals
 A,Proportion of populations maintained within species,Monitoring framework assignment (Goals and Targets to Indicators)
 B,B.1 Services provided by ecosystems,Monitoring framework assignment (Goals and Targets to Indicators)
 B,"B.b Number of countries with policies or actions for implementing and monitoring the sustainable use of biodiversity and the maintenance and enhancement of nature’s contributions to people, including ecosystem functions and services",Monitoring framework assignment (Goals and Targets to Indicators)
-B,Red List Index (for utilized species),Monitoring framework assignment (Goals and Targets to Indicators)
+B,Red List Index (for utilized species) (1),Monitoring framework assignment (Goals and Targets to Indicators)
 B,Living Planet Index for utilized species,Monitoring framework assignment (Goals and Targets to Indicators)
 B,Total value of ecosystems services in monetary units,Monitoring framework assignment (Goals and Targets to Indicators)
 B,Ecological footprint (1),Monitoring framework assignment (Goals and Targets to Indicators)
 B,Red List Index (pollinating species),Monitoring framework assignment (Goals and Targets to Indicators)
-B,Green Status of Species,Monitoring framework assignment (Goals and Targets to Indicators)
+B,Green status of species (1),Monitoring framework assignment (Goals and Targets to Indicators)
 B,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (Sustainable Development Goal indicator 6.4.2),Monitoring framework assignment (Goals and Targets to Indicators)
 B,Proportion of bodies of water with good ambient water quality (Sustainable Development Goal indicator 6.3.2),Monitoring framework assignment (Goals and Targets to Indicators)
 B,Forestry production and trade (wood fuel),Monitoring framework assignment (Goals and Targets to Indicators)
@@ -100,15 +100,15 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 4,A.3 Red List Index (Sustainable Development Goal indicators 15.5.1),Monitoring framework assignment (Goals and Targets to Indicators)
 4,A.4 The proportion of populations within species with an effective population size greater than 500,Monitoring framework assignment (Goals and Targets to Indicators)
 4,Living Planet Index,Monitoring framework assignment (Goals and Targets to Indicators)
-4,Number of plant and animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities,Monitoring framework assignment (Goals and Targets to Indicators)
-4,Green status of species,Monitoring framework assignment (Goals and Targets to Indicators)
+4,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (2),Monitoring framework assignment (Goals and Targets to Indicators)
+4,Green status of species (2),Monitoring framework assignment (Goals and Targets to Indicators)
 4,Human-wildlife conflict indicator,Monitoring framework assignment (Goals and Targets to Indicators)
-4,Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2),Monitoring framework assignment (Goals and Targets to Indicators)
+4,Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (1),Monitoring framework assignment (Goals and Targets to Indicators)
 4,Species Threat Abatement and Restoration metric,Monitoring framework assignment (Goals and Targets to Indicators)
 4,Red List Index (wild relatives of domesticated animals) ,Monitoring framework assignment (Goals and Targets to Indicators)
 4,Number of island invasive alien species eradications,Monitoring framework assignment (Goals and Targets to Indicators)
 5,5.1 Proportion of fish stocks within biologically sustainable levels (Sustainable Development Goal indicator 14.4.1),Monitoring framework assignment (Goals and Targets to Indicators)
-5,Red List Index (for utilized species),Monitoring framework assignment (Goals and Targets to Indicators)
+5,Red List Index (for utilized species) (1),Monitoring framework assignment (Goals and Targets to Indicators)
 5,Living Planet Index for utilized species,Monitoring framework assignment (Goals and Targets to Indicators)
 5,"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Sustainable Development Goal indicator 14.6.1) (1)",Monitoring framework assignment (Goals and Targets to Indicators)
 5,Inland fisheries threat indicator,Monitoring framework assignment (Goals and Targets to Indicators)
@@ -138,7 +138,7 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 7,Pesticide use per area of cropland,Monitoring framework assignment (Goals and Targets to Indicators)
 8,8.b Number of countries with policies to minimize the impact of climate change and ocean acidification on biodiversity and to minimize negative and foster positive impacts of climate action on biodiversity,Monitoring framework assignment (Goals and Targets to Indicators)
 8,"Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015- 2030 (Sustainable Development Goal indicator 1.5.3), which include biodiversity",Monitoring framework assignment (Goals and Targets to Indicators)
-8,Bioclimatic Ecosystem Resilience Index (1),Monitoring framework assignment (Goals and Targets to Indicators)
+8,Bioclimatic Ecosystem Resilience Index (2),Monitoring framework assignment (Goals and Targets to Indicators)
 8,Above-ground biomass stock in forest (tons/ha),Monitoring framework assignment (Goals and Targets to Indicators)
 8,"National greenhouse gas inventories from land use, land- use change and forestry",Monitoring framework assignment (Goals and Targets to Indicators)
 8,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (Sustainable Development Goal indicator 1.5.4),Monitoring framework assignment (Goals and Targets to Indicators)
@@ -152,10 +152,10 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 9,"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Sustainable Development Goal indicator 14.6.1) (2)",Monitoring framework assignment (Goals and Targets to Indicators)
 9,Number of Marine Stewardship Council chain of custody certification holders by distribution country,Monitoring framework assignment (Goals and Targets to Indicators)
 9,Spawning stock biomass (related to commercially exploited species),Monitoring framework assignment (Goals and Targets to Indicators)
-9,Number of (a) plant and (b) animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1),Monitoring framework assignment (Goals and Targets to Indicators)
+9,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (1),Monitoring framework assignment (Goals and Targets to Indicators)
 9,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size (Sustainable Development Goal indicator 2.3.1),Monitoring framework assignment (Goals and Targets to Indicators)
 9,Red List Index (impacts of fisheries),Monitoring framework assignment (Goals and Targets to Indicators)
-9,Red List Index (for utilized species),Monitoring framework assignment (Goals and Targets to Indicators)
+9,Red List Index (for utilized species) (2),Monitoring framework assignment (Goals and Targets to Indicators)
 10,10.1 Proportion of agricultural area under productive and sustainable agriculture (Sustainable Development Goal indicator 2.4.1),Monitoring framework assignment (Goals and Targets to Indicators)
 10,10.2 Progress towards sustainable forest management (Sustainable Development Goal indicator 15.2.1),Monitoring framework assignment (Goals and Targets to Indicators)
 10,"Average income of small-scale food producers, by sex and indigenous status (SDG indicator 2.3.2)",Monitoring framework assignment (Goals and Targets to Indicators)
@@ -165,7 +165,7 @@ D,"Private funding mobilized for indigenous peoples and local communities, women
 10,Red List Index (pollinating species),Monitoring framework assignment (Goals and Targets to Indicators)
 10,Red List Index (forest specialist species),Monitoring framework assignment (Goals and Targets to Indicators)
 10,Red List Index (impacts of fisheries),Monitoring framework assignment (Goals and Targets to Indicators)
-10,Proportion of local breeds classified as being at risk of extinction (SDG indicator 2.5.2),Monitoring framework assignment (Goals and Targets to Indicators)
+10,Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (2),Monitoring framework assignment (Goals and Targets to Indicators)
 10,Proportion of land that is degraded over total land area (SDG indicator 15.3.1),Monitoring framework assignment (Goals and Targets to Indicators)
 10,Area of forest under sustainable management : total forest management certification by the Forest Stewardship Council and the Programme for the Endorsement of Forest Certification,Monitoring framework assignment (Goals and Targets to Indicators)
 11,B.1 Services provided by ecosystems,Monitoring framework assignment (Goals and Targets to Indicators)
@@ -271,7 +271,7 @@ Development Goal indicator16.10.1)",Monitoring framework assignment (Goals and T
 23,"23.b Number of countries with legal, administrative or policy frameworks, inter alia, the Gender Plan of Action (2023–2030), to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the Convention, including by ensuring women’s equal rights and access to land and natural resources",Monitoring framework assignment (Goals and Targets to Indicators)
 23,Proportion of seats held by women in: (a) national parliaments; and (b) local governments (Sustainable Development Goal indicator 5.5.1),Monitoring framework assignment (Goals and Targets to Indicators)
 23,Indicator on national implementation of the Gender Plan of Action (2023–2030),Monitoring framework assignment (Goals and Targets to Indicators)
-23,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure ",Monitoring framework assignment (Goals and Targets to Indicators)
+23,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure (Sustainable Development Goal indicator 1.4.2)",Monitoring framework assignment (Goals and Targets to Indicators)
 23,"Percentage of positions in national and local institutions, including: (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",Monitoring framework assignment (Goals and Targets to Indicators)
 23,"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and share of women among owners or rights-bearers of agricultural land, by type of tenure (Sustainable Development Goal indicator 5.a.1)",Monitoring framework assignment (Goals and Targets to Indicators)
 23,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (Sustainable Development Goal indicator 16.7.2)",Monitoring framework assignment (Goals and Targets to Indicators)
@@ -329,8 +329,10 @@ Development Goal indicator16.10.1)",Monitoring framework assignment (Goals and T
 7.2 Aggregated total applied toxicity,Pressure,Leadley et al. 2022 (Indicators to RPSB)
 9.2 Percentage of the population in traditional occupations,Benefits,Leadley et al. 2022 (Indicators to RPSB)
 10.1 Proportion of agricultural area under productive and sustainable agriculture (Sustainable Development Goal indicator 2.4.1),Response,Leadley et al. 2022 (Indicators to RPSB)
+10.1 Proportion of agricultural area under productive and sustainable agriculture (Sustainable Development Goal indicator 2.4.1),State,Burgess et al. 2024 (Indicators to RPSB)
 10.2 Progress towards sustainable forest management (Sustainable Development Goal indicator 15.2.1),Response,Leadley et al. 2022 (Indicators to RPSB)
 12.1 Average share of the built- up area of cities that is green or blue space for public use for all,State,Leadley et al. 2022 (Indicators to RPSB)
+12.1 Average share of the built- up area of cities that is green or blue space for public use for all,Benefits,Burgess et al. 2024 (Indicators to RPSB)
 "15.1 Number of companies disclosing their biodiversity- related risks, dependencies and impacts",Pressure,Leadley et al. 2022 (Indicators to RPSB)
 18.2 Value of subsidies and other incentives harmful to biodiversity,Response,Leadley et al. 2022 (Indicators to RPSB)
 21.1 Indicator on biodiversity information for monitoring the Kunming- Montreal Global Biodiversity Framework,Response,Leadley et al. 2022 (Indicators to RPSB)
@@ -371,66 +373,85 @@ D,Response,Workshop
 23,Response,Workshop
 5.b Number of countries with legal instruments or other policy frameworks for regulating trade in wild species,Response,Workshop
 "13.b Number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources",Response,Workshop
-Ecosystem Intactness Index,State,Pending validation
-Ecosystem Integrity Index,State,Pending validation
-Species Habitat Index,State,Pending validation
-Biodiversity Habitat Index,State,Pending validation
+Ecosystem Intactness Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Ecosystem Intactness Index,Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Ecosystem Integrity Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Ecosystem Integrity Index,Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Species Habitat Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Biodiversity Habitat Index,State,Burgess et al. 2024 (Indicators to RPSB)
 Biodiversity Intactness Index,State,Pending validation
-Protected Connected Index,State,Pending validation
-Protected Connected Index,Response,Pending validation
+Protected Connected Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Protected Connected Index,Response,Burgess et al. 2024 (Indicators to RPSB)
 Protected Area Representativeness and Connectedness Indices,State,Pending validation
 Protected Area Representativeness and Connectedness Indices,Response,Pending validation
-Evolutionarily Distinct and Globally Endangered Index,State,Pending validation
-Living Planet Index,State,Pending validation
+Evolutionarily Distinct and Globally Endangered Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Living Planet Index,State,Burgess et al. 2024 (Indicators to RPSB)
 Wild Bird Index,State,Pending validation
-Red List Index (for utilized species),State,Pending validation
-Red List Index (for utilized species),Benefits,Pending validation
-Living Planet Index for utilized species,State,Pending validation
+Red List Index (for utilized species) (1),State,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (for utilized species) (1),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (for utilized species) (1),Benefits,Pending validation
+Red List Index (for utilized species) (2),State,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (for utilized species) (2),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (for utilized species) (2),Benefits,Pending validation
+Living Planet Index for utilized species,State,Burgess et al. 2024 (Indicators to RPSB)
+Living Planet Index for utilized species,Pressure,Burgess et al. 2024 (Indicators to RPSB)
 Living Planet Index for utilized species,Benefits,Pending validation
 Total value of ecosystems services in monetary units,Benefits,Pending validation
 Proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1),State,Pending validation
-Protected Area Connectedness Index,State,Pending validation
-Protected Area Connectedness Index,Response,Pending validation
-Species Protection Index (1),State,Pending validation
-Species Protection Index (1),Response,Pending validation
-Number of plant and animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities,State,Pending validation
-Number of plant and animal genetic resources for food and agriculture secured in medium- or long-term conservation facilities,Benefits,Pending validation
-Green status of species,State,Pending validation
-Green status of species,Response,Pending validation
+Protected Area Connectedness Index,State,Burgess et al. 2024 (Indicators to RPSB)
+Protected Area Connectedness Index,Response,Burgess et al. 2024 (Indicators to RPSB)
+Species Protection Index (1),Response,Burgess et al. 2024 (Indicators to RPSB)
+Species Protection Index (2),Response,Burgess et al. 2024 (Indicators to RPSB)
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (2),Response,Burgess et al. 2024 (Indicators to RPSB)
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (2),Benefits,Burgess et al. 2024 (Indicators to RPSB)
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (1),Response,Burgess et al. 2024 (Indicators to RPSB)
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities (Sustainable Development Goal indicator 2.5.1) (1),Benefits,Burgess et al. 2024 (Indicators to RPSB)
+Green status of species (1),State,Burgess et al. 2024 (Indicators to RPSB)
+Green status of species (1),Response,Burgess et al. 2024 (Indicators to RPSB)
+Green status of species (2),State,Burgess et al. 2024 (Indicators to RPSB)
+Green status of species (2),Response,Burgess et al. 2024 (Indicators to RPSB)
 Human-wildlife conflict indicator,Pressure,Pending validation
-Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2),State,Pending validation
-Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2),Response,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (1),State,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (1),Response,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (2),State,Pending validation
+Proportion of local breeds classified as being at risk of extinction (Sustainable Development Goal indicator 2.5.2) (2),Response,Pending validation
 "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (Sustainable Development Goal indicator 14.6.1) (1)",Response,Pending validation
 Cropland nutrient budget,State,Pending validation
 Cropland nutrient budget,Benefits,Pending validation
 Proportion of domestic and industrial wastewater flow safely treated (Sustainable Development Goal indicator 6.3.1),Response,Pending validation
 Proportion of domestic and industrial wastewater flow safely treated (Sustainable Development Goal indicator 6.3.1),Pressure,Pending validation
 Plastic debris density (Sustainable Development Goal indicator 14.1.1 (b)),Pressure,Pending validation
-Red List Index (impact of pollution),Pressure,Pending validation
-Red List Index (impact of pollution),State,Pending validation
-"Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015- 2030 (Sustainable Development Goal indicator 1.5.3), which include biodiversity",Response,Pending validation
-Bioclimatic Ecosystem Resilience Index (1),State,Pending validation
-Red List Index (species used for food and medicine),Benefits,Pending validation
-Red List Index (species used for food and medicine),State,Pending validation
-"Average income of small-scale food producers, by sex and indigenous status (SDG indicator 2.3.2)",Benefits,Pending validation
-Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities,Pressure,Pending validation
+Red List Index (impact of pollution),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (impact of pollution),State,Burgess et al. 2024 (Indicators to RPSB)
+"Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015- 2030 (Sustainable Development Goal indicator 1.5.3), which include biodiversity",Response,Burgess et al. 2024 (Indicators to RPSB)
+Bioclimatic Ecosystem Resilience Index (1),State,Burgess et al. 2024 (Indicators to RPSB)
+Bioclimatic Ecosystem Resilience Index (1),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Bioclimatic Ecosystem Resilience Index (2),State,Burgess et al. 2024 (Indicators to RPSB)
+Bioclimatic Ecosystem Resilience Index (2),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (species used for food and medicine),Benefits,Burgess et al. 2024 (Indicators to RPSB)
+Red List Index (species used for food and medicine),State,Burgess et al. 2024 (Indicators to RPSB)
+"Average income of small-scale food producers, by sex and indigenous status (SDG indicator 2.3.2)",Benefits,Burgess et al. 2024 (Indicators to RPSB)
+Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities,Pressure,Burgess et al. 2024 (Indicators to RPSB)
 Proportion of bodies of water with good ambient water quality,Response,Pending validation
 Proportion of bodies of water with good ambient water quality,State,Pending validation
-Level of water stress,Pressure,Pending validation
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (Sustainable Development Goal indicator 6.4.2),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Level of water stress,Pressure,Burgess et al. 2024 (Indicators to RPSB)
 Singapore Index on Cities’ Biodiversity,State,Pending validation
 Singapore Index on Cities’ Biodiversity,Benefits,Pending validation
 "Integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental- Economic Accounting (Sustainable Goal indicator 15.9.1 (b))",Response,Pending validation
 Number of companies publishing sustainability reports (Sustainable Development Goal indicator 12.6.1),Response,Pending validation
-Food Waste Index (Sustainable Development Goal indicator 12.3.1(b)),Benefits,Pending validation
+Food Waste Index (Sustainable Development Goal indicator 12.3.1(b)),Pressure,Burgess et al. 2024 (Indicators to RPSB)
 Food Waste Index (Sustainable Development Goal indicator 12.3.1(b)),Response,Pending validation
-"Material footprint, material footprint per capita, and material footprint per GDP (Sustainable Development Goal indicator 8.4.1) per capita",Pressure,Pending validation
-Global environmental impacts of consumption,Pressure,Pending validation
-Ecological footprint (1),Pressure,Pending validation
+"Material footprint, material footprint per capita, and material footprint per GDP (Sustainable Development Goal indicator 8.4.1) per capita",Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Global environmental impacts of consumption,Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Ecological footprint (1),Pressure,Burgess et al. 2024 (Indicators to RPSB)
+Ecological footprint (2),Pressure,Burgess et al. 2024 (Indicators to RPSB)
 "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies (Sustainable Development Goal indicator 17.7",Response,Pending validation
 Species Information Index,State,Pending validation
 Participation of indigenous peoples and local communities in decision-making related to the implementation of the Convention at all levels,Response,Pending validation
 Index of Linguistic Diversity,Response,Pending validation
-"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure (Sustainable Development Goal indicator 1.4.2)",Benefits,Pending validation
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure (Sustainable Development Goal indicator 1.4.2)",Benefits,Burgess et al. 2024 (Indicators to RPSB)
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation; and (b) who perceive their rights to land as secure, by sex and type of tenure (Sustainable Development Goal indicator 1.4.2)",Response,Burgess et al. 2024 (Indicators to RPSB)
 "Number of verified cases of killings and other attacks against environmental human rights defenders in the previous 12 months (Sustainable
 Development Goal indicator16.10.1)",Response,Pending validation
 Proportion of seats held by women in: (a) national parliaments; and (b) local governments (Sustainable Development Goal indicator 5.5.1),Response,Pending validation
